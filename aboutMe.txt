@@ -2,5 +2,5 @@ Name: Adrian fung
 Project Goal: Pokemon Master
 Favorite TV Show: Breaking Bad
 Favorite Quote:
-"The only to fear, is fear itself."
+"The only thing to fear, is fear itself."
 - John F. Kennedy
